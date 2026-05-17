@@ -23,4 +23,4 @@ Brief Challenge Ideas 
 5. DRM image protection - system used by Netflix to protect against screenshot privacy
 6. Chinese Room LLM Challenge - AI doesn't know the flag, but know how to decode the flag; 
 7. [Test](/home/daniel_n/Obsidian_Vaults/RazorHack_2026/Planning/Packet Capturing.md)
-8. 
+8. Server Room in ThreeJS that can serve as a visual for most challenges 
